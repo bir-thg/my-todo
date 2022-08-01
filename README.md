@@ -13,6 +13,7 @@ You can also import the project to your IDE of choice as you would with any
 Maven project. Read more on [how to set up a development environment for
 Vaadin projects](https://vaadin.com/docs/latest/guide/install) (Windows, Linux, macOS).
 
+## Entwickeln der Applikation mittels git
 ### Running Integration Tests
 
 Integration tests are implemented using [Vaadin TestBench](https://vaadin.com/testbench). The tests take a few minutes to run and are therefore included in a separate Maven profile. We recommend running tests with a production build to minimize the chance of development time toolchains affecting test stability. To run the tests using Google Chrome, execute
